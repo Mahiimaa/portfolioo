@@ -176,7 +176,7 @@ export const experiences = [
     role: "Frontend Developer Intern",
     company: "IIC",
     date: "June 2024 - Sep 2024",
-    desc: "Built Flipr Connect Platforms using React Js integrated GraphQL with AXIOS, created High level Design and Figma design. Built Backend with GraphQL and Node JS and connected with MongoDb - Reducing API calls by 20%. Dockerized and automated with Kubernetes & Jenkins CI/CD deployed in AWS-EC2 added Prometheus & Grafana for monitoring.",
+    desc: "I recently completed an internship at Itahari International College (IIC), where I contributed to web development projects using React, Node.js, and Material-UI. This experience enhanced my skills in front-end and back-end development, problem-solving, and collaboration, while allowing me to apply computational techniques in real-world scenarios. ",
     skills: [
       "ReactJS",
       "NodeJs",
@@ -194,7 +194,7 @@ export const experiences = [
     role: "TA Intern",
     company: "IIC",
     date: "June 2024 - Sep 2024",
-    desc: "Enhanced user experiences on Neurobit PSG & Hybrid, Portals by resolving bugs & reduced load time by 40%. Built Neurobit Analytics portal using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency and integrated Vite with Jest for Unit Testing.",
+    desc: "I also got an opportunity to work as a Teacher assistant. Even though I was not involved in the teaching directly , I took few classes which has helped my communication skills",
     skills: [
       "Communication",
       "Problem Solving",
@@ -211,7 +211,7 @@ export const education = [
     school: "Itahari International College, Dulari",
     date: "Oct 2022 - Present",
     grade: "--",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science at Itahari International College.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
@@ -220,8 +220,8 @@ export const education = [
     school: "Panchayat Higher School, Pathari",
     date: "March 2017 - Apr 2019",
     grade: "3.18",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
+    desc: "I completed my class 12 high school education at Panchayat Higher School, where I studied Science.",
+    degree: "Science",
   },
   {
     id: 2,
@@ -229,8 +229,8 @@ export const education = [
     school: "Shree New Pagoda Boarding School",
     date: "March 2012 - Apr 2016",
     grade: "3.55",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-    degree: "ICSC(X), Science with Computer",
+    desc: "I completed my class 10 education at Shree New Pagoda, Pathari Sanischare-1.",
+    degree: "Primary education",
   },
 ];
 
@@ -240,7 +240,7 @@ export const projects = [
     title: "IIC Resource",
     date: "June 2024 - Sep 2024",
     description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+      "IIC Rresource is a web app that I developed along with my other fellow intern mates. This is basically a web app for Itahari International Colleges' Resource department for managing the inventory.",
     image:
       "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
     tags: [
@@ -258,7 +258,7 @@ export const projects = [
     title: "Dear Diary",
     date: "Nov 2023 - Feb 2024",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "Dear Diary is a web app which I developed during my second year. This is basically an app for an individuals to document their daily activities and practice gratefulness. It will help people track their days, practice gratitude and many more.",
     image:
       "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
     tags: [
@@ -277,7 +277,7 @@ export const projects = [
     title: "Finger Print Door Lock System",
     date: "Nov 2023 - Feb 2024",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "This is an IOT project. It is a door lock system that uses biometrics of individuals to unlock the door. People can register their fingerprint, use that to unlock the door and also cancel their registration. ",
     image:
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
