@@ -172,7 +172,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://www.google.com/imgres?q=iic&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100064824125445&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FIICNepal%2F&docid=7ssq5BHC-pcueM&tbnid=OzdUJSqGp77jKM&vet=12ahUKEwiQzM2yyMqIAxWUSmwGHXsCMlcQM3oECBgQAA..i&w=1250&h=1250&hcb=2&ved=2ahUKEwiQzM2yyMqIAxWUSmwGHXsCMlcQM3oECBgQAA",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFFN11aZ3OCOdhZxYCMyNBl7pczLkxv9Y6A&s",
     role: "Frontend Developer Intern",
     company: "IIC",
     date: "June 2024 - Sep 2024",
@@ -190,7 +190,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://www.google.com/imgres?q=iic&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100064824125445&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FIICNepal%2F&docid=7ssq5BHC-pcueM&tbnid=OzdUJSqGp77jKM&vet=12ahUKEwiQzM2yyMqIAxWUSmwGHXsCMlcQM3oECBgQAA..i&w=1250&h=1250&hcb=2&ved=2ahUKEwiQzM2yyMqIAxWUSmwGHXsCMlcQM3oECBgQAA",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFFN11aZ3OCOdhZxYCMyNBl7pczLkxv9Y6A&s",
     role: "TA Intern",
     company: "IIC",
     date: "June 2024 - Sep 2024",
@@ -207,7 +207,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxFFN11aZ3OCOdhZxYCMyNBl7pczLkxv9Y6A&s",
     school: "Itahari International College, Dulari",
     date: "Oct 2022 - Present",
     grade: "--",
@@ -216,7 +216,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://media.licdn.com/dms/image/v2/D4E03AQHBNEc9QwJyLQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707823202132?e=2147483647&v=beta&t=fZnQtkDjnvVcjE6ImOh94_QXzOje2zugK2FTdJjjqeI",
     school: "Panchayat Higher School, Pathari",
     date: "March 2017 - Apr 2019",
     grade: "3.18",
@@ -225,7 +225,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLNad7_Wi_djMY7k9SiGK7NeS8ybtLL2hL3g&s",
     school: "Shree New Pagoda Boarding School",
     date: "March 2012 - Apr 2016",
     grade: "3.55",
@@ -281,7 +281,7 @@ export const projects = [
     image:
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
+    category: "iot",
     // github: "https://github.com/rishavchanda/Podstream",
     // webapp: "https://podstream.netlify.app/",
   },
@@ -290,7 +290,7 @@ export const projects = [
     title: "Bonsai Plants",
     date: "Feb 2023 - June 2023",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "This is the very first project I did. This is an ecommerce website for selling Bonsai plants. This is not dynamic but static but I learned a lot durig this project as a newbie",
     image:
       "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
     tags: [
