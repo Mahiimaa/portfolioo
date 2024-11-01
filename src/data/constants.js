@@ -229,7 +229,7 @@ export const education = [
     school: "Shree New Pagoda Boarding School",
     date: "March 2012 - Apr 2016",
     grade: "3.55",
-    desc: "I completed my class 10 education at Shree New Pagoda, Pathari Sanischare-1.",
+    desc: "I completed my class 10 primary education from Shree New Pagoda, Pathari Sanischare-1.",
     degree: "Primary education",
   },
 ];
@@ -240,7 +240,7 @@ export const projects = [
     title: "IIC Resource",
     date: "June 2024 - Sep 2024",
     description:
-      "IIC Rresource is a web app that I developed along with my other fellow intern mates. This is basically a web app for Itahari International Colleges' Resource department for managing the inventory.",
+      "IIC Rresource is a web app that I developed along with my other fellow intern mates. This is basically a web app for Itahari International Colleges' Resource department for managing the inventory. It has many features that makes the job of the resource head easier plus it also helps other colleges' staff in requesting the resources they are in need of through department head. It provides transpparency in an organization on how the resources are managed.",
     image:
       "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
     tags: [
@@ -258,7 +258,7 @@ export const projects = [
     title: "Dear Diary",
     date: "Nov 2023 - Feb 2024",
     description:
-      "Dear Diary is a web app which I developed during my second year. This is basically an app for an individuals to document their daily activities and practice gratefulness. It will help people track their days, practice gratitude and many more.",
+      "Dear Diary is a web app which I developed during my second year. This is basically an app for an individuals to document their daily activities and practice gratefulness. It will help people track their days, practice gratitude and many more. It has features like multimedia integration and tracker.",
     image:
       "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
     tags: [
@@ -277,7 +277,7 @@ export const projects = [
     title: "Finger Print Door Lock System",
     date: "Nov 2023 - Feb 2024",
     description:
-      "This is an IOT project. It is a door lock system that uses biometrics of individuals to unlock the door. People can register their fingerprint, use that to unlock the door and also cancel their registration. ",
+      "This is an IOT project. It is a door lock system that uses biometrics of an individual to unlock the door. People can register their fingerprints, use that to unlock the door. They can also cancel their fingerprint registration. ",
     image:
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
@@ -290,7 +290,7 @@ export const projects = [
     title: "Bonsai Plants",
     date: "Feb 2023 - June 2023",
     description:
-      "This is the very first project I did. This is an ecommerce website for selling Bonsai plants. This is not dynamic but static but I learned a lot durig this project as a newbie",
+      "This is the very first project that I did during my first year. This is an ecommerce website for selling Bonsai plants. This is not dynamic but static but I learned a lot durig this project as a newbie",
     image:
       "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
     tags: [
@@ -299,8 +299,8 @@ export const projects = [
       "JavaScript",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    // github: "https://github.com/rishavchanda/Project-Management-App",
+    // webapp: "https://vexa-app.netlify.app/",
   },
 ];
 
