@@ -240,7 +240,7 @@ export const projects = [
     title: "IIC Resource",
     date: "June 2024 - Sep 2024",
     description:
-      "IIC Rresource is a web app that I developed along with my other fellow intern mates. This is basically a web app for Itahari International Colleges' Resource department for managing the inventory. It has many features that makes the job of the resource head easier plus it also helps other colleges' staff in requesting the resources they are in need of through department head. It provides transpparency in an organization on how the resources are managed.",
+      "IIC Rresource is a web app that I developed along with my other fellow intern mates. IIC Resource is basically a web app for Itahari International Colleges' Resource department for managing the inventory. It has many features that makes the job of the resource head easier plus it also helps other colleges' staff in requesting the resources they are in need of through department head. It provides transpparency in an organization on how the resources are managed.",
     image:
       "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
     tags: [
@@ -258,7 +258,7 @@ export const projects = [
     title: "Dear Diary",
     date: "Nov 2023 - Feb 2024",
     description:
-      "Dear Diary is a web app which I developed during my second year. This is basically an app for an individuals to document their daily activities and practice gratefulness. It will help people track their days, practice gratitude and many more. It has features like multimedia integration and tracker.",
+      "Dear Diary is a web app which I developed during my second year. This is basically an app for individuals to document their daily activities and practice gratefulness. It helps people track their days, practice gratitude and many more. It has one of the main attractions in today's era for journaling which is a multimedia integration. People can integrate photos, videos and other form of media into their journal entries. They can customize their journal entries as per their like by using different tags and get more personalized experience.",
     image:
       "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
     tags: [
@@ -277,7 +277,7 @@ export const projects = [
     title: "Finger Print Door Lock System",
     date: "Nov 2023 - Feb 2024",
     description:
-      "This is an IOT project. It is a door lock system that uses biometrics of an individual to unlock the door. People can register their fingerprints, use that to unlock the door. They can also cancel their fingerprint registration. ",
+      "This is an IOT project. It is a door lock system that uses biometrics of an individual to unlock the door. Firstly, people need to register their fingerprints, use that fingerprint to unlock the door. They can also cancel their fingerprint registration. If the fingerprint is not found or detected in the system an error message is shown and the door remains closed. ",
     image:
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
@@ -290,7 +290,7 @@ export const projects = [
     title: "Bonsai Plants",
     date: "Feb 2023 - June 2023",
     description:
-      "This is the very first project that I did during my first year. This is an ecommerce website for selling Bonsai plants. This is not dynamic but static but I learned a lot durig this project as a newbie",
+      "This is the very first project that I did during my first year. This is an ecommerce website for selling Bonsai plants. This is not dynamic but static but I learned a lot durig this project as a newbie. It is purely developed using html, css and little bit of javascript.",
     image:
       "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
     tags: [
